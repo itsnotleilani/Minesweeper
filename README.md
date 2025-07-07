@@ -39,5 +39,7 @@ Open the project in Android Studio.
 Ensure Kotlin and Jetpack Compose dependencies are installed.
 
 Run the app on a local emulator or physical Android device.
-![MinesweeperScreenshot](https://github.com/user-attachments/assets/e5eaf6f6-ea78-4881-b2fd-1cf776e99a7c)
-![MinesweeperScreenshotEnd](https://github.com/user-attachments/assets/25956b24-8926-4cc6-be6e-9a1a8d6768a7)
+
+
+![MinesweeperScreenshot](https://github.com/user-attachments/assets/3e66da41-b8f8-473d-a125-8145102a877c)
+![MinesweeperScreenshotEnd](https://github.com/user-attachments/assets/146210f2-1af7-46be-8d81-1e1afeffcb35)
