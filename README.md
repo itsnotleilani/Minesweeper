@@ -16,8 +16,8 @@ A Kotlin-based Android game inspired by the classic Minesweeper. Built using Jet
 * Kotlin: Main programming language with emphasis on data classes and functional state updates.
 * Jetpack Compose: For creating reactive, declarative UI elements and managing layout responsiveness.
 * OOP & Data Structures:
-** Cell is a well-structured data class modeling each tile.
-** List<List<Cell>> is used to manage the 2D board.
+  * Cell is a well-structured data class modeling each tile.
+  * List<List<Cell>> is used to manage the 2D board.
 * Recursive and iterative algorithms handle mine placement, neighbor counting, and reveal behavior.
 * State Management: Leveraging remember and mutableStateOf to persist and update game state in a composable way.
 
@@ -33,6 +33,9 @@ Clone the repository
 ``bash
 git clone https://github.com/itsnotleilani/Minesweeper-Compose.git
 ``
+
 Open the project in Android Studio.
+
 Ensure Kotlin and Jetpack Compose dependencies are installed.
+
 Run the app on a local emulator or physical Android device.
