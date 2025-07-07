@@ -41,4 +41,5 @@ Ensure Kotlin and Jetpack Compose dependencies are installed.
 Run the app on a local emulator or physical Android device.
 
 <img width="181" alt="Screenshot 2025-07-06 at 11 03 03 PM" src="https://github.com/user-attachments/assets/660ab21a-79a1-4f0e-a918-910e60cb15af" />
+<img width="179" alt="Screenshot 2025-07-06 at 11 07 23 PM" src="https://github.com/user-attachments/assets/80f970e8-282c-43ea-a8ce-c0665bb296fc" />
 <img width="182" alt="Screenshot 2025-07-06 at 11 03 43 PM" src="https://github.com/user-attachments/assets/180ca629-cfe0-4ec4-b687-de8dbe78cadc" />
