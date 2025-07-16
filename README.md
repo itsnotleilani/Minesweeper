@@ -31,7 +31,7 @@ A Kotlin-based Android game inspired by the classic Minesweeper. Built using Jet
 ## Installation
 Clone the repository
 ``bash
-git clone https://github.com/itsnotleilani/Minesweeper-Compose.git
+git clone https://github.com/itsnotleilani/Minesweeper.git
 ``
 
 Open the project in Android Studio.
